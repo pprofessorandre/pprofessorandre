@@ -1,16 +1,27 @@
-### Hi there 👋
+### Seja Bem Vindo ao meu Perfil 👨‍🏫
 
-<!--
-**pprofessorandre/pprofessorandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Professor André**
 
-Here are some ideas to get you started:
+- Sou Professor da rede Estadual de São Paulo
+- Utilizo esse espaçõ para a organização e compartilhamento de meus **Projetos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato 💻
+
+  andrecesario@prof.educacao.sp.gov.br
+  
+  @andrematematica [Facebook](https://facebook.com)
+  
+  @andreexatas [Youtube](https://youtube.com)
+  
+  @scratch [Scratch](https://scratch.mit.edu)
+
+![](https://media.tenor.com/cZ_8ynUgFzAAAAAM/frink-professor-frink.gif)
+  
+  
+
+  
+  
+
+  
+
+
